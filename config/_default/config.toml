@@ -34,7 +34,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
   # Note:
-  # Note: if you want to enable Mathjax, you need to set it to 0
+  # Note: if you want to enable MathJax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
   stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
@@ -45,7 +45,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
   # Note: 
-  # Note: if you want to enable Mathjax, you need to set it to 0
+  # Note: if you want to enable MathJax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
   titleDelay = 0 # title speed : "title" in front matter
   contentDelay = 0 # content speed : content in .md file
@@ -69,7 +69,7 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["C/C++", "https://www.example.com/"],
     ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
+    ["Go", "https://go.dev/"],
     ["Hugo", "/post/some-activity.md"],
     ["Docker", "/post/some-activity.md"],
   ]

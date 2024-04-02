@@ -47,7 +47,7 @@ From here, we will edit the copied file, but the task will vary depending on wha
   - go to chapter 2-B
 
 ## 2-A Change only the order of the commands
-Here we want to add `[userName]@[pcName]:~/[workDir]$ cat [profile]` between the last line of the teminal and the line before it.
+Here we want to add `[userName]@[pcName]:~/[workDir]$ cat [profile]` between the last line of the terminal and the line before it.
 
 In `typeIndex.html`\
 The collection of `span` tags at the beginning is the root of the order of the commands.\

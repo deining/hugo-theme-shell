@@ -143,7 +143,7 @@ in [config.toml](config/_default/config.toml)
   files = [ 
     ["C/C++", "https://www.example.com/"],
     ["Python", "https://www.example.com/"],
-    ["Go", "https://golang.org/"],
+    ["Go", "https://go.dev/"],
     ["Hugo", "/post/some-activity.md"],
     ["Docker", "/post/some-activity.md"],
   ]
